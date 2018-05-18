@@ -22,8 +22,7 @@ using node package manager](installing-with-npm.md) instead.
 Download the latest compiled and minified versions of the stylesheets,
 JavaScript and the assets:
 
-- [CSS](https://github.com/alphagov/govuk-frontend/tree/master/dist/css)
-- [JavaScript](https://github.com/alphagov/govuk-frontend/tree/master/dist/js)
+- [CSS and JavaScript](https://github.com/alphagov/govuk-frontend/tree/master/dist)
 - [Assets](https://github.com/alphagov/govuk-frontend/tree/master/dist/assets)
 
 ### 2. Include resources
